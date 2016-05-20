@@ -1,2 +1,2 @@
 # CMPT-300_shell
-Repository for shell assignment from CMPT 300
+Repository for shell clone assignment from CMPT 300
